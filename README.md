@@ -1,6 +1,6 @@
-# ♻️ Smart Garbage Classification System for Sri Lanka
+# Smart Garbage Classification System for Sri Lanka
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to develop an intelligent waste classification system for Sri Lanka using Deep Learning and Transfer Learning techniques. The system automatically classifies waste images into four categories:
 
@@ -13,13 +13,13 @@ The project is designed to improve waste segregation and support smart waste man
 
 ---
 
-## 🎯 Research Objective
+## Research Objective
 
 To develop an accurate image classification model capable of automatically identifying urban waste categories using Convolutional Neural Networks (CNNs).
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Smart-Garbage-Classification-System/
@@ -51,7 +51,7 @@ The following diagram illustrates the overall architecture of the Smart Garbage 
 ![System Architecture](diagrams/system_architecture.png)
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset consists of waste images collected from urban areas in Colombo, Sri Lanka.
 
@@ -64,7 +64,7 @@ Target classes:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 The preprocessing stage includes:
 
@@ -75,7 +75,7 @@ The preprocessing stage includes:
 
 ---
 
-## 🧠 Proposed Model
+## Proposed Model
 
 The proposed system uses:
 
@@ -85,7 +85,7 @@ The proposed system uses:
 
 ---
 
-## 📈 Baseline Model
+## Baseline Model
 
 The baseline approach uses:
 
@@ -94,7 +94,7 @@ The baseline approach uses:
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 The model performance will be evaluated using:
 
@@ -107,7 +107,7 @@ The model performance will be evaluated using:
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - TensorFlow
@@ -120,23 +120,23 @@ The model performance will be evaluated using:
 
 ---
 
-## 🚀 Current Project Status
+## Current Project Status
 
-✅ Repository Created
+Repository Created
 
-✅ Initial Folder Structure
+Initial Folder Structure
 
-✅ Data Preprocessing Scripts
+Data Preprocessing Scripts
 
-⬜ Dataset Collection
+Dataset Collection
 
-⬜ Model Training
+Model Training
 
-⬜ Model Evaluation
+Model Evaluation
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 - Mandulee Laknara Jayathunga
 - Dilki Ishari
