@@ -44,7 +44,11 @@ Smart-Garbage-Classification-System/
 ├── requirements.txt
 └── LICENSE
 ```
+## System Architecture
 
+The following diagram illustrates the overall architecture of the Smart Garbage Classification System.
+
+![System Architecture](diagrams/system_architecture.png)
 ---
 
 ## 📊 Dataset
